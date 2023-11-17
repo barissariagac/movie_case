@@ -18,6 +18,7 @@ This Flutter application is an example developed using the [The Movie Database (
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-
-![Search Screen](screenshots/search_screen.png)
+<p float="left">
+  <img src="screenshots/home_screen.png" width="300" />
+  <img src="screenshots/search_screen.png" width="300" /> 
+</p>
